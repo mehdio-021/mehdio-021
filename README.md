@@ -1,4 +1,7 @@
 ### Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile!;I+am+a+Frontend+Developer;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=2000" alt="Example Usage - README Typing SVG">
+</p>
 <div id="header" align="center">
     <h1>
   hey there Im Mehdi Moharami 
