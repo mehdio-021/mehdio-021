@@ -53,14 +53,9 @@ I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mehdio-021&theme=neon)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdio-021&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdio-021)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## My Activity
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdio-021&show_icons=true&theme=tokyonight)
-
-## My Projects Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdio-021&hide_progress=false)
 
