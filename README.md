@@ -40,7 +40,7 @@ I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I watching Course on YouTube and read tech articles.and also availble to solve your problems
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/mehdi-moharami-442b6b240")
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mahdi-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/mehdi-moharami-442b6b240")
 
 ---
 
